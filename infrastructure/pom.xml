@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>start</artifactId>
+    <artifactId>infrastructure</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -19,7 +19,7 @@
     <dependencies>
         <dependency>
             <groupId>com.zy</groupId>
-            <artifactId>controller</artifactId>
+            <artifactId>domain</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>
