@@ -36,3 +36,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/benchmark/apache-jmeter-5.6.3/
